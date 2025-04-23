@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 , I'm Mohamed
+A Web Developper from France 🌟
 
 <!--
 **mmakria/mmakria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I enjoy creating innovative and useful web apps that help people.
+
+🌱 I’m constantly learning Vue/Nuxt 3, Javascript, Symfony & Mysql
+
+👨‍💻 All of my projects are available at https://github.com/mmakria
+
+📫 How to reach me m.makria at gmail dot com
