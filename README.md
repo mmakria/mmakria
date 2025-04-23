@@ -22,4 +22,4 @@ I enjoy creating innovative and useful web apps that help people.
 
 👨‍💻 All of my projects are available at https://github.com/mmakria
 
-📫 How to reach me m.makria at gmail dot com
+📫 How to reach me -> m.makria@gmail.com
